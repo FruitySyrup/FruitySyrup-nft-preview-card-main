@@ -42,5 +42,5 @@ This project was the first time I worked in VSC. It introduced me to the basic H
 
 ### Useful resources
 
-- [NFT Preview Card Component by tsbsankara]([https://www.youtube.com/watch?v=9bGbykdR4T8&t=151s])) - This video helped me understand working in a developer environment. As well as introduced me to *root and rem units. 
+- [NFT Preview Card Component by tsbsankara](https://www.youtube.com/watch?v=9bGbykdR4T8&t=151s) - This video helped me understand working in a developer environment. As well as introduced me to *root and rem units. 
 
