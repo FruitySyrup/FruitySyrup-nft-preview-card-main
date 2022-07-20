@@ -3,7 +3,7 @@
 # Frontend Mentor - NFT preview card component solution
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
-This is my first challenge from I've done since moving out of the SuperHi lessons and their sandbox.
+This is my first challenge I've done since moving out of the SuperHi lessons and their sandbox.
 Netlify link: https://fruitlabs-nft-preview-card.netlify.app/
 
 *Note that I did not have the figma/sketch file to get exact pixels, colors or styles. I did make deviations from the style-guide.md when they did not match the final design.  
