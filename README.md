@@ -6,7 +6,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 This is my first challenge from I've done since moving out of the SuperHi lessons and their sandbox.
 Netlify link: https://fruitlabs-nft-preview-card.netlify.app/
 
-*Note that I did not have the figma/sketch file to get exact pixels, colors or styles. I did make deviations from the style.md when they did not match the final design.  
+*Note that I did not have the figma/sketch file to get exact pixels, colors or styles. I did make deviations from the style-guide.md when they did not match the final design.  
 
 ## Table of contents
 
